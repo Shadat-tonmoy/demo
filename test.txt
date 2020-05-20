@@ -1,1 +1,3 @@
 This is a dummy text file
+
+some new texts are added to check the commit history
